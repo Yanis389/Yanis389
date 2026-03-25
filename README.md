@@ -43,6 +43,17 @@ I love building efficient systems, optimizing data workflows, and developing int
 
 ## 💼 Professional Experience
 
+### **ProBTP Groupe — Alternant Data & IA**  
+📅 *Octobre 2025 — Novembre 2027*  
+📍 Paris / Cagnes-sur-Mer  
+
+- Développement d’outils et d’automatisations pour les pipelines Data & IA  
+- Optimisation des traitements du Data Warehouse (DWH)  
+- Analyse de données pour améliorer les modèles prédictifs  
+- Participation aux projets Data Science & Machine Learning  
+- Maintenance, monitoring et évolution des systèmes analytiques  
+- Collaboration avec les équipes métiers pour définir les besoins et proposer des solutions adaptées  
+
 ### **ProBTP Groupe — Alternant Développeur Data & IA**  
 📅 *Septembre 2024 — Octobre 2025*  
 📍 Cagnes-sur-Mer  
