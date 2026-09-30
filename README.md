@@ -1,182 +1,223 @@
+<div align="center">
+
 # 👋 Hi, I'm Yanis Helali
 
-## Data & AI Developer | Java, Python & SQL
+### Data & AI Developer | Java • Python • SQL • Automation
 
-🎓 Master's student in **Big Data, Software Development & Artificial Intelligence**  
-💼 Apprentice Developer at **PRO BTP Groupe**  
-📍 Paris / Colombes / Cagnes-sur-Mer, France  
-🔗 [LinkedIn](https://www.linkedin.com/in/yanis-helali-3b3242214/)  
-📧 [Email me](mailto:yanishelali38@gmail.com)
+<p>
+  Master's student in Big Data, Software Development & Artificial Intelligence<br>
+  Apprentice Developer at PRO BTP Groupe
+</p>
+
+<p>
+  <a href="https://github.com/Yanis389">
+    https://img.shields.io/badge/GitHub-Yanis389-181717?style=for-the-badge&logo=github&logoColor=white
+  </a>
+  <a href="https://www.linkedin.com/in/yanis-helali-3b3242214/">
+    https://img.shields.io/badge/LinkedIn-Yanis_Helali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+  </a>
+  <a href="mailto:yanishelali38@gmail.com">
+    https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white
+  </a>
+</p>
+
+<p>
+  https://komarev.com/ghpvc/?username=Yanis389&label=Profile%20views&color=6C63FF&style=flat
+</p>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 I'm a **Data & AI Developer** currently working at **PRO BTP Groupe** while completing a Master's degree in **Big Data, Software Development and Artificial Intelligence** at IPSSI.
 
-My work focuses on building reliable applications and automated data-processing solutions using **Java, Python and SQL**. I contribute to the automation of business workflows, the processing and validation of files, the optimization of database operations, and the improvement of Data Warehouse and reporting processes.
+My work focuses on developing reliable applications and automating data-processing workflows using **Java, Python and SQL**.
 
-I enjoy designing end-to-end solutions, from understanding business requirements to development, testing, monitoring and deployment.
+I contribute to projects involving:
 
-Alongside my professional experience, I am strengthening my skills in **Data Engineering, Artificial Intelligence, software architecture and automation** through personal and academic projects.
-
----
-
-## 💼 Current Focus
-
-- ☕ Developing backend applications and automated processing tools with **Java**
-- 🐍 Building data-processing, automation and AI-oriented projects with **Python**
-- 🗄️ Designing and optimizing **SQL queries, staging tables and data workflows**
-- ⚙️ Automating file ingestion, validation, processing and reporting workflows
-- 📊 Working with **Data Warehouse, reporting and business data**
-- 🧪 Improving application reliability through controls, logs, monitoring and technical documentation
-- 🤖 Exploring AI-assisted data collection, data enrichment and intelligent applications
-- 🐳 Using **Git, Docker and CI/CD practices** to structure development workflows
-
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
-https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
-https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
-https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white
-
-### Backend, Web & Mobile
-
-https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white
-https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
-
-### Data, Databases & BI
-
-https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
-https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
-https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
-
-- Data processing and cleaning
-- Data Warehouse and staging tables
-- ETL and automated data pipelines
-- SQL query optimization
-- Data quality controls
-- Reporting and Business Intelligence
-- Predictive modelling and Machine Learning fundamentals
-
-### Tools & Engineering Practices
-
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white
-
-- Git workflows, feature branches, rebase and code integration
-- Maven project management
-- Docker containerization
-- REST API development
-- Application logging and monitoring
-- Unit and integration testing
+- Automated file ingestion and validation
+- Business data processing
+- SQL queries and staging tables
+- Data Warehouse workflows
+- Application monitoring and traceability
+- Automated reporting and email notifications
 - Technical and functional documentation
-- Agile collaboration with technical and business teams
+- Data collection and AI-assisted enrichment
+
+I enjoy building complete solutions, from understanding business requirements to development, testing, monitoring and deployment.
+
+---
+
+## 🔭 What I'm Currently Working On
+
+- Developing automated processing applications with **Java**
+- Building data and automation tools with **Python**
+- Creating and optimizing **SQL queries and staging tables**
+- Automating file ingestion, validation and reporting workflows
+- Improving application reliability through logs and controls
+- Experimenting with data collection and AI-assisted enrichment
+- Strengthening my knowledge of **Data Engineering and Machine Learning**
+- Applying clean Git workflows with feature branches and code reviews
+
+---
+
+## 🛠️ Technical Stack
+
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white
+</p>
+
+### Backend & Application Development
+
+<p>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white
+</p>
+
+### Web & Mobile
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+</p>
+
+### Data, Databases & Business Intelligence
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+</p>
+
+### DevOps & Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white
+</p>
 
 ---
 
 ## 💼 Professional Experience
 
-### PRO BTP Groupe | Apprentice Developer, Data & Automation
+### PRO BTP Groupe
 
-📅 **September 2024 – Present**  
-📍 **Cagnes-sur-Mer, France**
+**Apprentice Developer, Data & Automation**  
+📅 September 2024 – Present  
+📍 Cagnes-sur-Mer, France
 
-- Develop Java applications to automate business and Data Warehouse processing workflows
-- Design automated solutions for file ingestion, validation, transformation and reporting
-- Create and maintain SQL queries, staging tables and data-control processes
-- Optimize database operations and improve processing performance
-- Implement business rules, data-quality controls, logs and execution monitoring
+- Develop Java tools to automate business and Data Warehouse workflows
+- Design automated file ingestion and validation processes
+- Create and maintain SQL queries and staging tables
+- Implement business rules and data-quality controls
+- Improve processing reliability through logs and execution monitoring
 - Develop automated email notifications and processing reports
-- Maintain and improve existing applications and analytical systems
-- Produce technical documentation and user-oriented operating procedures
-- Work closely with business teams to understand requirements and deliver reliable solutions
-- Contribute to application testing, debugging, version control and deployment workflows
+- Maintain and evolve existing data-processing applications
+- Analyse business requirements and propose suitable technical solutions
+- Produce technical documentation and user operating procedures
+- Contribute to testing, debugging and application deployment
 
-### PRO BTP Groupe | Part-Time Case Manager
+### PRO BTP Groupe
 
-📅 **2022 – 2023**
+**Part-Time Case Manager**  
+📅 2022 – 2023
 
 - Managed litigation and administrative case files
 - Prepared professional and administrative correspondence
 - Communicated with debtors and monitored follow-up actions
-- Developed strong organizational, communication and case-management skills
+- Developed strong organizational and communication skills
 
-### Self-Employed | Various Assignments
+### Self-Employed
 
-📅 **Since 2021**
+**Various Operational Assignments**  
+📅 Since 2021
 
 - Completed assignments in logistics, events and operational support
-- Worked independently while adapting to different companies and environments
-- Strengthened problem-solving, autonomy and communication skills
+- Worked independently in diverse professional environments
+- Strengthened autonomy, adaptability and problem-solving skills
 
 ---
 
-## 🧩 Featured Projects
+## 🚀 Featured Projects
 
 ### 🤖 AI Lead Collection & Enrichment Pipeline
 
-A Python project designed to collect, structure and enrich professional prospect data according to configurable campaigns.
+A modular Python application designed to collect, validate, structure and enrich professional prospect data through configurable campaigns.
 
-**Key features:**
+**Main features:**
 
 - Campaign configuration by sector, keyword and location
-- Automated data collection and processing pipeline
-- CSV-based import and export workflows
+- Automated prospect collection workflow
+- CSV import and export
 - Data validation, cleaning and normalization
-- AI-assisted data enrichment
-- Modular command-line architecture
-- Environment-based configuration and secure API-key management
+- AI-assisted prospect enrichment
+- Command-line interface
+- Environment-based configuration
+- Secure API-key management
+- Modular pipeline architecture
 
-**Technologies:** Python, CSV, CLI, APIs, AI models, Git
+**Stack:**
+
+`Python` `CSV` `CLI` `APIs` `AI` `Git`
 
 ---
 
 ### ⚙️ Automated Data Control Workflow
 
-A professional Java-based workflow for processing and validating business input files.
+A Java-based professional workflow designed to process and validate business input files.
 
-**Key features:**
+**Main features:**
 
 - Automated file detection and ingestion
-- Data validation based on business rules
-- Staging-table integration
-- Detailed execution logs and traceability
-- Error handling and rejection management
-- Automated success and failure email notifications
-- Technical documentation and business operating procedures
+- Business-rule validation
+- SQL staging-table integration
+- Data-quality controls
+- Error and rejection management
+- Execution traceability
+- Automated success and failure notifications
+- Technical and functional documentation
 
-**Technologies:** Java, Maven, SQL, Data Warehouse, Git
+**Stack:**
+
+`Java` `Maven` `SQL` `Data Warehouse` `Git`
 
 ---
 
 ### 🔍 Banking Fraud Detection
 
-A Machine Learning project focused on identifying suspicious banking transactions.
+A Machine Learning project focused on identifying potentially fraudulent banking transactions.
 
-**Key features:**
+**Main features:**
 
-- Dataset exploration and preprocessing
-- Data cleaning and feature preparation
+- Exploratory data analysis
+- Dataset preprocessing
+- Data cleaning
+- Feature preparation
 - Classification model experimentation
-- Model performance evaluation
+- Model evaluation
 - Fraud-pattern analysis
 
-**Technologies:** Python, Pandas, Machine Learning, Data Analysis
+**Stack:**
+
+`Python` `Pandas` `Machine Learning` `Data Analysis`
 
 ---
 
@@ -184,33 +225,43 @@ A Machine Learning project focused on identifying suspicious banking transaction
 
 A software engineering project designed to analyse and improve Python source code.
 
-**Key features:**
+**Main features:**
 
 - Python file analysis
 - Code-quality checks
-- Formatting and readability improvements
+- Formatting recommendations
+- Readability improvements
 - Java and Python interoperability
 
-**Technologies:** Java, Python, Software Engineering
+**Stack:**
+
+`Java` `Python` `Software Engineering`
 
 ---
 
 ### 🎮 Real-Time Strategy Game with AI Opponent
 
-A software development project featuring game mechanics and an automated opponent.
+A software development project featuring strategy-game mechanics and an automated opponent.
 
-**Key features:**
+**Main features:**
 
-- Object-oriented game architecture
-- Resource and unit management
-- AI-controlled opponent behaviour
-- Game-state and decision-management logic
+- Object-oriented architecture
+- Resource management
+- Unit management
+- AI-controlled opponent
+- Game-state management
+- Automated decision logic
 
-**Technologies:** Object-Oriented Programming, Algorithms, Artificial Intelligence
+**Stack:**
+
+`OOP` `Algorithms` `Artificial Intelligence`
 
 ---
 
-### 🌐 Web Development Projects
+<details>
+<summary><strong>🌐 Other Web Development Projects</strong></summary>
+
+<br>
 
 - Online library management system
 - Simplified online banking application
@@ -219,58 +270,80 @@ A software development project featuring game mechanics and an automated opponen
 - Train ticket booking website
 - Hotel reservation platform
 
-**Technologies:** PHP, JavaScript, TypeScript, Symfony, Node.js, Angular, Express, MySQL, PostgreSQL
+**Technologies used:**
+
+`PHP` `JavaScript` `TypeScript` `Symfony` `Node.js` `Angular` `Express` `MySQL` `PostgreSQL`
+
+</details>
 
 ---
 
 ## 🎓 Education
 
-### Master's Degree in Big Data, Software Development & Artificial Intelligence
+### Master's Degree in Big Data, Development & Artificial Intelligence
 
-**IPSSI** | 2025 – 2027
-
-Key areas:
+**IPSSI**  
+📅 2025 – 2027
 
 - Data Engineering and Big Data
 - Artificial Intelligence and Machine Learning
 - Advanced software development
 - Data architecture and processing
-- Cloud, DevOps and application deployment
+- Cloud and DevOps
+- Application deployment
 
 ### Bachelor's Degree in Full-Stack Development & DevOps
 
-**IPSSI** | 2024 – 2025
+**IPSSI**  
+📅 2024 – 2025
 
 ### Computer Science Studies
 
-**CY Cergy Paris Université** | 2021 – 2024
+**CY Cergy Paris Université**  
+📅 2021 – 2024
 
 ### French Scientific Baccalaureate
 
-**Lycée Alexandre Dumas** | 2020
+**Lycée Alexandre Dumas**  
+📅 2020
 
 ---
 
 ## 🎯 Current Goals
 
-- Strengthen my expertise in **Python, Java and Data Engineering**
-- Build production-ready software and intelligent data applications
-- Develop scalable and maintainable automation pipelines
-- Improve my knowledge of Machine Learning and AI integration
+- Strengthen my expertise in Java, Python and Data Engineering
+- Build reliable and production-ready applications
+- Develop scalable automation and data pipelines
+- Improve my Machine Learning and AI integration skills
 - Explore cloud technologies and modern software architecture
 - Contribute to impactful Data, AI and backend projects
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-https://github-readme-stats.vercel.app/api?username=Yanis389&show_icons=true&theme=tokyonight&hide_border=true
+https://github-readme-stats.vercel.app/api?username=Yanis389&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Yanis389&layout=compact&theme=tokyonight&hide_border=true
+https://github-readme-stats.vercel.app/api/top-langs/?username=Yanis389&layout=compact&theme=tokyonight&hide_border=true&langs_count=8
 
-https://streak-stats.demolab.com?user=Yanis389&theme=tokyonight&hide_border=true
+<br>
+
+<img
+  src="https://streak-stats.demolab.com?user=Yanis389&theme=tokyonight&hide_border=true"
+  alt="GitHub contribution streak"
+/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+https://github-readme-activity-graph.vercel.app/graph?username=Yanis389&theme=tokyo-night&hide_border=true&area=true
 
 </div>
 
@@ -278,25 +351,33 @@ https://streak-stats.demolab.com?user=Yanis389&theme=tokyonight&hide_border=true
 
 ## 🤝 Let's Connect
 
-I'm open to discussing opportunities and projects related to:
+I'm open to discussing opportunities, collaborations and projects related to:
 
 - Data Engineering
 - Backend Development
-- Java and Python development
-- Process automation
+- Java and Python Development
+- Process Automation
 - Artificial Intelligence
-- Data processing and analytics
+- Data Processing and Analytics
 
-💼 https://www.linkedin.com/in/yanis-helali-3b3242214/  
-📧 [Contact me by email](mailto:yanishelali38@gmail.com)  
-💻 https://github.com/Yanis389
+<div align="center">
+
+<a href="https://www.linkedin.com/in/yanis-helali-3b3242214/">
+  https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+</a>
+
+<a href="mailto:yanishelali38@gmail.com">
+  https://img.shields.io/badge/Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile! 👋
+### Thanks for visiting my profile 👋
 
-**Always learning. Always building. Always improving.**
+**Always learning • Always building • Always improving**
 
 </div>
