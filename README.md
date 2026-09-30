@@ -161,7 +161,6 @@ A Machine Learning project focused on detecting suspicious banking transactions 
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yanis389&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph">
 
 </div>
 
